@@ -7,3 +7,6 @@ This repository was created to learn Git and GitHub basics.# for-git-practice
 - git add
 - git commit
 - git push
+## Branching and Merging
+
+Practiced creating branches and merging changes.
