@@ -12,3 +12,8 @@ This repository was created to learn Git and GitHub basics.# for-git-practice
 Practiced creating branches and merging changes.
 git branch feature-update
 git checkout feature-update
+git add .
+git commit -m "Update README from feature branch"
+git checkout main
+git merge feature-update
+git push origin main
